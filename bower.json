@@ -1,0 +1,27 @@
+{
+  "name": "bower_lab",
+  "version": "0.1.0",
+  "authors": [
+    "Karthik Sirasanagandla"
+  ],
+  "description": "Learning bower package manager utility",
+  "keywords": [
+    "bower",
+    "backbone",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/karthiks/bower_lab",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "jquery": "~2.0.3"
+  }
+}
